@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/nginx-ingress-controller:0.5 
+FROM gcr.io/google_containers/hyperkube-amd64:v1.2.0
 
